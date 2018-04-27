@@ -5,7 +5,7 @@ MassDM v2, a bot to send mass DM's to members of a Discord server.
 
 To use MassDM v2, you will need to know a few things.
 
-First, I do not guarantee that your Discord account will not get banned.
+First, I do not guarantee that your Discord account will not get banned and I do not guarantee that this bot will work.
 DO NOT use this on your main account under any cirumstances.
 Always use a VPN or a proxy as you may get IP banned.
 

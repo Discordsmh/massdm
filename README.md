@@ -1,7 +1,7 @@
 
 MassDM v2, a bot to send mass DM's to members of a Discord server.
 
-
+*DISCLAIMER: The bot is not to be used for spamming or illegal purposes. Using such bots is against the Discord Terms of Service, the US's CAN-SPAM Act, the Canadian Anti-Spam Legislation, and many other countries' anti-spam legislations.*
 
 To use MassDM v2, you will need to know a few things.
 
